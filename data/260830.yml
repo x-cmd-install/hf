@@ -1,0 +1,58 @@
+about:
+  description: Cross-platform hidden file library and utility
+  license: NOASSERTION
+  homepage: https://sorairolake.github.io/hf/
+  head: d0370d1
+  archived: false
+  latestVersion: v0.6.0
+  collectedAt: 2026-08-30T05:28:14Z
+timeline:
+  created: 2022-05-26
+  lastCommit: 2026-08-29
+  lastRelease: 2026-01-27
+popularity:
+  star: 33
+  watcher: 1
+  fork: 2
+  release: 18
+  contributor: 1
+  pullRequest: 112
+  issue: 1
+language:
+  Rust: 76088
+  Just: 1080
+  Shell: 330
+totalLine: 77498
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 18
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 17
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 18
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 47
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 47
+  last360d:
+    since: 2025-09-04
+    release: 1
+    mergedPR: 163
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 184

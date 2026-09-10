@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 381005,
       "digest": "sha256:dc418d749b66fd2c15ed64c04971c1e8f1af98b7d2b39f837feeb7574b5351b6",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-aarch64-apple-darwin.tar.zst"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 227940,
       "digest": "sha256:53b3c2cae934b99eeeb4bff4c7a554887924e5f62b388be53c2de1fe218ebc4f",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-aarch64-pc-windows-msvc.7z"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 384374,
       "digest": "sha256:e63a324072f04fca61b997832130d3e15034a427390ca085ddee5427d50c2bdc",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-aarch64-unknown-linux-musl.tar.zst"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 409978,
       "digest": "sha256:6c72ad9163d6554d60faf7197f35e2960e6afbf4ee70bce65e44c65bb08faa1d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-x86_64-apple-darwin.tar.zst"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 469477,
       "digest": "sha256:ceb1c4bc007c2c458852a66c86ab16c2a3d8d0f849b3e348cfe5a0ae02358651",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-x86_64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 410648,
       "digest": "sha256:b46b92773998418cd1cccf9eba55e2d51c4baa5d10a1e603a9b7cfa3e3dbe8fd",
-      "download_count": 121,
+      "download_count": 122,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-x86_64-unknown-linux-musl.tar.zst"

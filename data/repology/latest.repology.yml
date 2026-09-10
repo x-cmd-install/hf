@@ -1,0 +1,28 @@
+- repo: aur
+  srcname: hf
+  binname: hf
+  visiblename: hf
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: Cross-platform hidden file library and utility
+  maintainers:
+    - orhun@aur
+  licenses:
+    - Apache-2.0
+    - CC-BY-4.0
+    - MIT
+- repo: homebrew
+  srcname: hf
+  visiblename: hf
+  version: 1.30.0
+  origversion: null
+  status: newest
+  summary: Client library for huggingface.co hub
+- repo: homebrew
+  srcname: hf
+  visiblename: hf
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Client library for huggingface.co hub

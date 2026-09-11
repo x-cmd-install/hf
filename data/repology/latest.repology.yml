@@ -15,7 +15,7 @@
 - repo: homebrew
   srcname: hf
   visiblename: hf
-  version: 1.30.0
+  version: 1.31.0
   origversion: null
   status: newest
   summary: Client library for huggingface.co hub

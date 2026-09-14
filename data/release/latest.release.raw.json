@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 336141,
       "digest": "sha256:416dadd9f09f2334c0be14df1c9a1f280512e9ee5626883c07bc81d8917f4b75",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 469477,
       "digest": "sha256:ceb1c4bc007c2c458852a66c86ab16c2a3d8d0f849b3e348cfe5a0ae02358651",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-01-27T00:43:21Z",
       "updated_at": "2026-01-27T00:43:21Z",
       "browser_download_url": "https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-x86_64-unknown-linux-musl.tar.gz"

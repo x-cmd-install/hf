@@ -4,7 +4,7 @@
 
 Cross-platform hidden file library and utility
 
-![hf](https://repo.x-cmd.io/hf.svg)
+[![x-cmd/install — hf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hf.svg)](https://x-cmd.com/install/hf)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-01-27)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-18
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 523 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 743
+- **Releases**: 18 · **Merged PRs**: 526 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 746
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 16 | 3 | 0 | 0 | 27 |
-| last60d | 2026-07-20 | 0 | 17 | 3 | 0 | 0 | 27 |
-| 90d | 2026-06-20 | 0 | 20 | 3 | 0 | 0 | 27 |
-| last180d | 2026-03-22 | 0 | 47 | 3 | 0 | 0 | 49 |
-| 360d | 2025-09-23 | 1 | 155 | 3 | 0 | 0 | 175 |
-| last720d | 2024-09-28 | 8 | 351 | 3 | 1 | 0 | 430 |
+| 30d | 2026-08-21 | 0 | 19 | 0 | 0 | 0 | 30 |
+| last60d | 2026-07-22 | 0 | 20 | 0 | 0 | 0 | 30 |
+| 90d | 2026-06-22 | 0 | 23 | 0 | 0 | 0 | 30 |
+| last180d | 2026-03-24 | 0 | 50 | 0 | 0 | 0 | 52 |
+| 360d | 2025-09-25 | 1 | 157 | 0 | 0 | 0 | 167 |
+| last720d | 2024-09-30 | 8 | 352 | 0 | 1 | 0 | 428 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:36:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:41Z._

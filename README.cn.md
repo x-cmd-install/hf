@@ -4,7 +4,7 @@
 
 Cross-platform hidden file library and utility
 
-![hf](https://repo.x-cmd.io/hf.svg?lang=zh)
+[![x-cmd/install — hf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hf.svg?lang=zh)](https://x-cmd.com/install/hf)
 
 ## 安装
 
@@ -33,7 +33,7 @@ x install hf
 ## 发布
 
 - **最新版本**: `v0.6.0` (2026-01-27)
-- **最近提交**: 2026-09-11
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 18 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install hf
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 523 · **开放 PR**: 3 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 743
+- **发布数**: 18 · **已合并 PR**: 526 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 746
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 16 | 3 | 0 | 0 | 27 |
-| last60d | 2026-07-20 | 0 | 17 | 3 | 0 | 0 | 27 |
-| 90d | 2026-06-20 | 0 | 20 | 3 | 0 | 0 | 27 |
-| last180d | 2026-03-22 | 0 | 47 | 3 | 0 | 0 | 49 |
-| 360d | 2025-09-23 | 1 | 155 | 3 | 0 | 0 | 175 |
-| last720d | 2024-09-28 | 8 | 351 | 3 | 1 | 0 | 430 |
+| 30d | 2026-08-21 | 0 | 19 | 0 | 0 | 0 | 30 |
+| last60d | 2026-07-22 | 0 | 20 | 0 | 0 | 0 | 30 |
+| 90d | 2026-06-22 | 0 | 23 | 0 | 0 | 0 | 30 |
+| last180d | 2026-03-24 | 0 | 50 | 0 | 0 | 0 | 52 |
+| 360d | 2025-09-25 | 1 | 157 | 0 | 0 | 0 | 167 |
+| last720d | 2024-09-30 | 8 | 352 | 0 | 1 | 0 | 428 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ hf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:36:18Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:50:42Z._

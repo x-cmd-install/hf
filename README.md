@@ -19,7 +19,7 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 2,298 | 0 | 0 | 2 |
-| Rust | 1,979 | 54 | 290 | 16 |
+| Rust | 1,979 | 58 | 290 | 16 |
 | AsciiDoc | 570 | 67 | 339 | 21 |
 | Yaml | 68 | 9 | 12 | 3 |
 | Toml | 64 | 6 | 10 | 2 |
@@ -33,7 +33,7 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-01-27)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-25
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 526 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 746
+- **Releases**: 18 · **Merged PRs**: 532 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 19 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 19 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 23 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 49 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-29 | 1 | 154 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-04 | 8 | 352 | 0 | 1 | 0 | 424 |
+| 30d | 2026-08-26 | 0 | 25 | 0 | 0 | 0 | 36 |
+| last60d | 2026-07-27 | 0 | 25 | 0 | 0 | 0 | 36 |
+| 90d | 2026-06-27 | 0 | 29 | 0 | 0 | 0 | 36 |
+| last180d | 2026-03-29 | 0 | 55 | 0 | 0 | 0 | 58 |
+| 360d | 2025-09-30 | 1 | 159 | 0 | 0 | 0 | 173 |
+| last720d | 2024-10-05 | 8 | 358 | 0 | 1 | 0 | 430 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:24:09Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:30:48Z._

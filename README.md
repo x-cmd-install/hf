@@ -14,7 +14,7 @@ x install hf
 
 ## Code insight
 
-Total: **5,036** lines of code across **44** files in the top 5 languages.
+Total: **5,039** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 | Rust | 1,979 | 58 | 290 | 16 |
 | AsciiDoc | 570 | 67 | 339 | 21 |
 | Yaml | 68 | 9 | 12 | 3 |
-| Toml | 64 | 6 | 10 | 2 |
+| Toml | 67 | 6 | 10 | 2 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-01-27)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **5,036** lines of code across **44** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 532 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 752
+- **Releases**: 18 · **Merged PRs**: 534 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 754
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 18 | 0 | 0 | 0 | 17 |
-| last60d | 2026-07-30 | 0 | 25 | 0 | 0 | 0 | 36 |
-| 90d | 2026-06-30 | 0 | 29 | 0 | 0 | 0 | 36 |
-| last180d | 2026-04-01 | 0 | 55 | 0 | 0 | 0 | 58 |
-| 360d | 2025-10-03 | 1 | 158 | 0 | 0 | 0 | 169 |
-| last720d | 2024-10-08 | 8 | 358 | 0 | 1 | 0 | 430 |
+| 30d | 2026-08-30 | 0 | 19 | 0 | 0 | 0 | 19 |
+| last60d | 2026-07-31 | 0 | 27 | 0 | 0 | 0 | 38 |
+| 90d | 2026-07-01 | 0 | 31 | 0 | 0 | 0 | 38 |
+| last180d | 2026-04-02 | 0 | 55 | 0 | 0 | 0 | 60 |
+| 360d | 2025-10-04 | 1 | 160 | 0 | 0 | 0 | 171 |
+| last720d | 2024-10-09 | 8 | 360 | 0 | 1 | 0 | 432 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:00:20Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:25:14Z._

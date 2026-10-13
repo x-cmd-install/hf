@@ -48,12 +48,12 @@ Total: **5,044** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 17 | 0 | 0 | 0 | 17 |
-| last60d | 2026-08-13 | 0 | 33 | 0 | 0 | 0 | 44 |
-| 90d | 2026-07-14 | 0 | 34 | 0 | 0 | 0 | 44 |
-| last180d | 2026-04-15 | 0 | 61 | 0 | 0 | 0 | 55 |
-| 360d | 2025-10-17 | 1 | 156 | 0 | 0 | 0 | 162 |
-| last720d | 2024-10-22 | 8 | 358 | 0 | 1 | 0 | 431 |
+| 30d | 2026-09-13 | 0 | 17 | 0 | 0 | 0 | 17 |
+| last60d | 2026-08-14 | 0 | 33 | 0 | 0 | 0 | 44 |
+| 90d | 2026-07-15 | 0 | 34 | 0 | 0 | 0 | 44 |
+| last180d | 2026-04-16 | 0 | 56 | 0 | 0 | 0 | 55 |
+| 360d | 2025-10-18 | 1 | 156 | 0 | 0 | 0 | 162 |
+| last720d | 2024-10-23 | 8 | 358 | 0 | 1 | 0 | 431 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:45:26Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:30:54Z._

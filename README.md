@@ -14,14 +14,14 @@ x install hf
 
 ## Code insight
 
-Total: **5,044** lines of code across **45** files in the top 5 languages.
+Total: **4,942** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,298 | 0 | 0 | 2 |
-| Rust | 1,979 | 58 | 290 | 16 |
-| AsciiDoc | 570 | 67 | 339 | 21 |
-| Toml | 72 | 9 | 12 | 3 |
+| Rust | 2,108 | 64 | 315 | 18 |
+| Json | 2,063 | 0 | 0 | 2 |
+| AsciiDoc | 573 | 67 | 342 | 21 |
+| Toml | 73 | 9 | 12 | 3 |
 | Yaml | 68 | 9 | 12 | 3 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **5,044** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-01-27)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-18
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **5,044** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 540 · **Open PRs**: 5 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 765
+- **Releases**: 18 · **Merged PRs**: 545 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 774
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 14 | 5 | 0 | 0 | 14 |
-| last60d | 2026-08-19 | 0 | 33 | 5 | 0 | 0 | 44 |
-| 90d | 2026-07-20 | 0 | 34 | 5 | 0 | 0 | 44 |
-| last180d | 2026-04-21 | 0 | 55 | 5 | 0 | 0 | 55 |
-| 360d | 2025-10-23 | 1 | 151 | 5 | 0 | 0 | 157 |
-| last720d | 2024-10-28 | 8 | 353 | 5 | 1 | 0 | 429 |
+| 30d | 2026-09-19 | 0 | 19 | 0 | 0 | 0 | 19 |
+| last60d | 2026-08-20 | 0 | 38 | 0 | 0 | 0 | 49 |
+| 90d | 2026-07-21 | 0 | 39 | 0 | 0 | 0 | 49 |
+| last180d | 2026-04-22 | 0 | 60 | 0 | 0 | 0 | 60 |
+| 360d | 2025-10-24 | 1 | 156 | 0 | 0 | 0 | 162 |
+| last720d | 2024-10-29 | 8 | 358 | 0 | 1 | 0 | 428 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:00:49Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:14:27Z._

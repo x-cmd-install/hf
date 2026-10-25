@@ -48,12 +48,12 @@ Total: **4,942** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 21 | 0 | 0 | 0 | 26 |
-| last60d | 2026-08-25 | 0 | 45 | 0 | 0 | 0 | 56 |
-| 90d | 2026-07-26 | 0 | 45 | 0 | 0 | 0 | 56 |
-| last180d | 2026-04-27 | 0 | 63 | 0 | 0 | 0 | 67 |
-| 360d | 2025-10-29 | 1 | 158 | 0 | 0 | 0 | 169 |
-| last720d | 2024-11-03 | 8 | 362 | 0 | 1 | 0 | 434 |
+| 30d | 2026-09-25 | 0 | 20 | 0 | 0 | 0 | 16 |
+| last60d | 2026-08-26 | 0 | 45 | 0 | 0 | 0 | 37 |
+| 90d | 2026-07-27 | 0 | 45 | 0 | 0 | 0 | 56 |
+| last180d | 2026-04-28 | 0 | 63 | 0 | 0 | 0 | 62 |
+| 360d | 2025-10-30 | 1 | 158 | 0 | 0 | 0 | 166 |
+| last720d | 2024-11-04 | 8 | 362 | 0 | 1 | 0 | 434 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Reported by **3** distros on [repology.org](https://repology.org/project/hf). **
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.2.0` | ✅ latest |
+| Homebrew | `2.3.0` | ✅ latest |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:13:47Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:12:06Z._

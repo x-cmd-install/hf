@@ -33,7 +33,7 @@ Total: **4,942** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-01-27)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-06
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **4,942** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 556 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 794
+- **Releases**: 18 · **Merged PRs**: 559 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 800
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 19 | 0 | 0 | 0 | 16 |
-| last60d | 2026-09-06 | 0 | 39 | 0 | 0 | 0 | 39 |
-| 90d | 2026-08-07 | 0 | 49 | 0 | 0 | 0 | 60 |
-| last180d | 2026-05-09 | 0 | 62 | 0 | 0 | 0 | 62 |
-| 360d | 2025-11-10 | 1 | 156 | 0 | 0 | 0 | 167 |
-| last720d | 2024-11-15 | 8 | 361 | 0 | 1 | 0 | 435 |
+| 30d | 2026-10-07 | 0 | 22 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-07 | 0 | 42 | 0 | 0 | 0 | 42 |
+| 90d | 2026-08-08 | 0 | 52 | 0 | 0 | 0 | 63 |
+| last180d | 2026-05-10 | 0 | 65 | 0 | 0 | 0 | 65 |
+| 360d | 2025-11-11 | 1 | 159 | 0 | 0 | 0 | 170 |
+| last720d | 2024-11-16 | 8 | 359 | 0 | 1 | 0 | 441 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:26:40Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:26:07Z._

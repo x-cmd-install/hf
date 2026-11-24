@@ -14,12 +14,12 @@ x install hf
 
 ## Code insight
 
-Total: **4,942** lines of code across **47** files in the top 5 languages.
+Total: **5,058** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
+| Json | 2,179 | 0 | 0 | 2 |
 | Rust | 2,108 | 64 | 315 | 18 |
-| Json | 2,063 | 0 | 0 | 2 |
 | AsciiDoc | 573 | 67 | 342 | 21 |
 | Toml | 73 | 9 | 12 | 3 |
 | Yaml | 68 | 9 | 12 | 3 |
@@ -33,7 +33,7 @@ Total: **4,942** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-01-27)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-23
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **4,942** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 559 · **Open PRs**: 7 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 800
+- **Releases**: 18 · **Merged PRs**: 566 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 814
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 7 | 7 | 0 | 0 | 3 |
-| last60d | 2026-09-24 | 0 | 28 | 7 | 0 | 0 | 25 |
-| 90d | 2026-08-25 | 0 | 52 | 7 | 0 | 0 | 45 |
-| last180d | 2026-05-27 | 0 | 62 | 7 | 0 | 0 | 63 |
-| 360d | 2025-11-28 | 1 | 152 | 7 | 0 | 0 | 160 |
-| last720d | 2024-12-03 | 8 | 356 | 7 | 1 | 0 | 434 |
+| 30d | 2026-10-25 | 0 | 14 | 0 | 0 | 0 | 10 |
+| last60d | 2026-09-25 | 0 | 34 | 0 | 0 | 0 | 32 |
+| 90d | 2026-08-26 | 0 | 59 | 0 | 0 | 0 | 52 |
+| last180d | 2026-05-28 | 0 | 69 | 0 | 0 | 0 | 70 |
+| 360d | 2025-11-29 | 1 | 159 | 0 | 0 | 0 | 167 |
+| last720d | 2024-12-04 | 8 | 363 | 0 | 1 | 0 | 447 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:57:53Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:29:27Z._

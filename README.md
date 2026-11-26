@@ -48,12 +48,12 @@ Total: **5,058** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 15 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-26 | 0 | 35 | 0 | 0 | 0 | 33 |
-| 90d | 2026-08-27 | 0 | 60 | 0 | 0 | 0 | 53 |
-| last180d | 2026-05-29 | 0 | 70 | 0 | 0 | 0 | 71 |
-| 360d | 2025-11-30 | 1 | 160 | 0 | 0 | 0 | 168 |
-| last720d | 2024-12-05 | 8 | 363 | 0 | 1 | 0 | 448 |
+| 30d | 2026-10-27 | 0 | 15 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-27 | 0 | 35 | 0 | 0 | 0 | 33 |
+| 90d | 2026-08-28 | 0 | 60 | 0 | 0 | 0 | 53 |
+| last180d | 2026-05-30 | 0 | 70 | 0 | 0 | 0 | 71 |
+| 360d | 2025-12-01 | 1 | 157 | 0 | 0 | 0 | 168 |
+| last720d | 2024-12-06 | 8 | 363 | 0 | 1 | 0 | 447 |
 
 ## Release assets
 
@@ -78,6 +78,14 @@ Total: **5,058** lines of code across **47** files in the top 5 languages.
 | [hf-v0.6.0-x86_64-unknown-linux-musl.tar.zst](https://github.com/sorairolake/hf/releases/download/v0.6.0/hf-v0.6.0-x86_64-unknown-linux-musl.tar.zst) | 401.0 KiB | `native/linux/x64/musl` |
 | [sha256sums.txt](https://github.com/sorairolake/hf/releases/download/v0.6.0/sha256sums.txt) | 1.7 KiB | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/hf). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.4.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +95,4 @@ Install metadata for hf lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:54:19Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:46:59Z._
